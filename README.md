@@ -41,4 +41,5 @@ Some urls:
 * https://realpython.com/offline-python-deployments-with-docker/
 * https://packaging.python.org/tutorials/packaging-projects/
 * https://pypi.org/project/pip-bundle/
-
+* https://blog.chezo.uno/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9
+* https://stackoverflow.com/questions/46651454/whats-the-difference-between-find-links-and-index-url-pip-flags
