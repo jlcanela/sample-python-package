@@ -9,7 +9,11 @@ scenarios:
   simple:
     think-time: 0.001
     requests:
-    - http://localhost:5000/
+    - url: http://localhost:3000/
+      method: GET
+    - url: http://localhost:3000/post
+      method: POST
+      body: "the_body"
 
 settings:
   default-executor: gatling
