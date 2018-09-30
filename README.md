@@ -8,6 +8,12 @@ pip install wheel
 pip install Flask
 ```
 
+TODO:
+* complete install using 
+  ```
+  pip install git+file:///path/to/your/git/repo
+  ```
+
 # Test tool
 
 Taurus : https://github.com/Blazemeter/taurus
@@ -31,6 +37,7 @@ bzt perf-test.yml -report
 
 Some urls:
 * https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
+* https://medium.com/@erika_dike/installing-package-from-a-private-repo-in-your-docker-container-f45b1a4954a2
 * https://realpython.com/offline-python-deployments-with-docker/
 * https://packaging.python.org/tutorials/packaging-projects/
 * https://pypi.org/project/pip-bundle/
