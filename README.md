@@ -22,9 +22,16 @@ Install bzt:
 pip install bzt
 ```
 
+Run tests:
+```
+bzt perf-test.yml -report
+```
+
 # Reference
-https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
-https://realpython.com/offline-python-deployments-with-docker/
-https://packaging.python.org/tutorials/packaging-projects/
-https://pypi.org/project/pip-bundle/
+
+Some urls:
+* https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
+* https://realpython.com/offline-python-deployments-with-docker/
+* https://packaging.python.org/tutorials/packaging-projects/
+* https://pypi.org/project/pip-bundle/
 
